@@ -1,1 +1,1 @@
-# ProjektPython
+# KGU OOP
